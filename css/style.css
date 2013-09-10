@@ -1,0 +1,11 @@
+#canvas{
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url("media/background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
