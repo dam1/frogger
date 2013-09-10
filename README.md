@@ -1,4 +1,4 @@
-a simple frogger HTML5
+A simple HTML5 frogger
 =======
 
 a running demo here : http://damiengalan.com/frogger/
